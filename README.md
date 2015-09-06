@@ -2,6 +2,8 @@
 
 A simple ruby script to download the old podcasts that are no longer available through itunes
 
+Original script: https://github.com/rupurt/ruby5-podcast-downloader
+
 ## Setup ##
 
 You will need to make sure you have bundler installed
